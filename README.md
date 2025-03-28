@@ -24,7 +24,9 @@ Supports both AWS S3 and Azure Blob Storage.
 - Modular infrastructure for easy provider swapping
 ---
 ## TODOs
-
+- Presigned URLs from storage provider
+- File versioning and expanded metadata
+- Auth and credential management
 ---
 ## Architecture
 ```bash
